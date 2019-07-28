@@ -76,4 +76,4 @@ bot.on("message", async message => {
 
 });
 
-bot.login(process.env.BOT_TOKEN));
+bot.login(process.env.NjAyNjE0OTIxMjc1ODk5OTQ2.XTopbA.ZhqBNbSB-A9Z8OwnAnhOYfbqw_g));
